@@ -6,7 +6,7 @@ An operational analytics dashboard tracking document processing throughput, Qual
 
 ## 📌 Project Overview
 
-![Private Equity Operations Dashboard](screenshots/executive_summary.png)
+![Private Equity Operations Dashboard](data/documentation/documentation/screenshots/executive_summary.png.png)
 
 Alternative investment operations require strict oversight when handling partner notices, quarterly capital accounts, and subscription packs:
 * Monitoring document intake across portals (**Investran**, **eFront**, **Allvue**, **FIS Investier**).
