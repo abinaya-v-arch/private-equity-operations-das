@@ -1,0 +1,501 @@
+Document ID,Processing Date,Document Type,Investor Platform,Assigned Analyst,Processing Status,Processing Time,Quality Check Status,Error Category,SLA Status
+DOC-2024-445,2024-01-02,Capital Account Statement,Investran,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-064,2024-01-03,Capital Account Statement,Investran,Analyst E,Completed,44,Passed,None,Met
+DOC-2024-207,2024-01-03,Capital Call Notice,Allvue,Analyst D,Completed,16,Passed,None,Met
+DOC-2024-264,2024-01-03,Capital Account Statement,Investran,Analyst E,Rejected,50,Failed,Missing Signature,Breached
+DOC-2024-325,2024-01-05,K-1 Tax Document,FIS Investier,Analyst B,Completed,42,Passed,None,Met
+DOC-2024-495,2024-01-05,Capital Call Notice,Allvue,Analyst C,Completed,28,Passed,None,Met
+DOC-2024-129,2024-01-06,Quarterly Financial Report,Allvue,Analyst A,Rejected,49,Failed,Illegible Scan,Met
+DOC-2024-415,2024-01-06,Capital Call Notice,eFront,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-334,2024-01-07,Capital Call Notice,Allvue,Analyst E,Completed,26,Passed,None,Met
+DOC-2024-098,2024-01-10,Subscription Agreement,FIS Investier,Analyst B,Completed,57,Passed,None,Breached
+DOC-2024-270,2024-01-10,Distribution Notice,eFront,Analyst B,Completed,15,Passed,None,Met
+DOC-2024-483,2024-01-11,Quarterly Financial Report,Investran,Analyst D,Completed,55,Passed,None,Met
+DOC-2024-152,2024-01-14,K-1 Tax Document,Allvue,Analyst D,Completed,31,Passed,None,Met
+DOC-2024-378,2024-01-14,Quarterly Financial Report,Investran,Analyst E,Completed,61,Passed,None,Breached
+DOC-2024-051,2024-01-15,Distribution Notice,Allvue,Analyst E,Completed,33,Passed,None,Met
+DOC-2024-093,2024-01-16,Distribution Notice,Allvue,Analyst B,Completed,22,Passed,None,Met
+DOC-2024-135,2024-01-16,Quarterly Financial Report,Allvue,Analyst B,Completed,42,Passed,None,Met
+DOC-2024-496,2024-01-17,Capital Account Statement,eFront,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-329,2024-01-18,Subscription Agreement,Investran,Analyst C,Completed,50,Passed,None,Met
+DOC-2024-352,2024-01-19,K-1 Tax Document,eFront,Analyst A,Rejected,38,Failed,Metadata Mismatch,Met
+DOC-2024-383,2024-01-21,Distribution Notice,FIS Investier,Analyst C,Completed,31,Passed,None,Met
+DOC-2024-007,2024-01-22,Quarterly Financial Report,eFront,Analyst E,Completed,37,Passed,None,Met
+DOC-2024-045,2024-01-22,Capital Call Notice,Investran,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-026,2024-01-23,Capital Account Statement,eFront,Analyst A,Completed,40,Passed,None,Met
+DOC-2024-308,2024-01-23,Capital Call Notice,Allvue,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-481,2024-01-24,Subscription Agreement,Investran,Analyst D,Completed,44,Passed,None,Met
+DOC-2024-375,2024-01-27,Capital Call Notice,FIS Investier,Analyst D,Completed,38,Passed,None,Met
+DOC-2024-316,2024-01-28,Subscription Agreement,FIS Investier,Analyst C,Completed,41,Passed,None,Met
+DOC-2024-110,2024-01-29,Distribution Notice,Investran,Analyst B,Completed,16,Passed,None,Met
+DOC-2024-165,2024-01-29,Quarterly Financial Report,eFront,Analyst D,Completed,51,Passed,None,Met
+DOC-2024-150,2024-01-30,Capital Call Notice,eFront,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-115,2024-02-03,Capital Call Notice,eFront,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-306,2024-02-03,Side Letter,Investran,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-059,2024-02-05,Capital Account Statement,eFront,Analyst A,Completed,40,Passed,None,Met
+DOC-2024-124,2024-02-05,Quarterly Financial Report,eFront,Analyst A,Completed,50,Passed,None,Met
+DOC-2024-326,2024-02-05,Distribution Notice,Investran,Analyst D,Completed,42,Passed,None,Breached
+DOC-2024-151,2024-02-06,Subscription Agreement,eFront,Analyst E,Completed,61,Passed,None,Breached
+DOC-2024-381,2024-02-06,Distribution Notice,Allvue,Analyst E,Rejected,46,Failed,Missing Signature,Breached
+DOC-2024-268,2024-02-07,Quarterly Financial Report,Allvue,Analyst D,Completed,49,Passed,None,Met
+DOC-2024-337,2024-02-07,Quarterly Financial Report,Investran,Analyst B,Completed,49,Passed,None,Met
+DOC-2024-311,2024-02-08,Capital Call Notice,Allvue,Analyst E,Completed,33,Passed,None,Met
+DOC-2024-250,2024-02-09,Quarterly Financial Report,Investran,Analyst E,Completed,62,Passed,None,Breached
+DOC-2024-372,2024-02-09,K-1 Tax Document,Investran,Analyst D,Completed,44,Passed,None,Met
+DOC-2024-475,2024-02-09,Capital Call Notice,eFront,Analyst D,Completed,24,Passed,None,Met
+DOC-2024-091,2024-02-11,Side Letter,Investran,Analyst D,Completed,31,Passed,None,Met
+DOC-2024-109,2024-02-11,Side Letter,Investran,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-137,2024-02-12,Distribution Notice,Investran,Analyst B,Completed,31,Passed,None,Met
+DOC-2024-071,2024-02-14,Distribution Notice,Investran,Analyst E,Completed,30,Passed,None,Met
+DOC-2024-167,2024-02-14,Side Letter,FIS Investier,Analyst E,Completed,49,Passed,None,Breached
+DOC-2024-161,2024-02-15,Distribution Notice,Investran,Analyst A,Completed,25,Passed,None,Met
+DOC-2024-333,2024-02-16,Capital Account Statement,Investran,Analyst D,In Progress,39,Failed,Metadata Mismatch,Met
+DOC-2024-420,2024-02-17,Capital Call Notice,Investran,Analyst B,Completed,17,Passed,None,Met
+DOC-2024-469,2024-02-17,Quarterly Financial Report,FIS Investier,Analyst A,Completed,67,Passed,None,Breached
+DOC-2024-116,2024-02-18,Side Letter,FIS Investier,Analyst A,Completed,32,Passed,None,Met
+DOC-2024-451,2024-02-18,Subscription Agreement,Allvue,Analyst B,Completed,44,Passed,None,Met
+DOC-2024-030,2024-02-19,K-1 Tax Document,Investran,Analyst C,Completed,41,Passed,None,Met
+DOC-2024-328,2024-02-19,Capital Account Statement,FIS Investier,Analyst D,Completed,45,Passed,None,Met
+DOC-2024-062,2024-02-20,Distribution Notice,FIS Investier,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-037,2024-02-21,Distribution Notice,Allvue,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-313,2024-02-21,Capital Call Notice,Investran,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-394,2024-02-21,Quarterly Financial Report,eFront,Analyst C,Rejected,68,Failed,Incorrect Amount,Breached
+DOC-2024-143,2024-02-22,Side Letter,FIS Investier,Analyst E,Completed,33,Passed,None,Met
+DOC-2024-198,2024-02-22,Quarterly Financial Report,Allvue,Analyst C,Completed,44,Passed,None,Met
+DOC-2024-055,2024-02-23,Distribution Notice,eFront,Analyst A,In Progress,33,Failed,Metadata Mismatch,Met
+DOC-2024-086,2024-02-23,Side Letter,eFront,Analyst A,Completed,39,Passed,None,Met
+DOC-2024-216,2024-02-23,K-1 Tax Document,Investran,Analyst B,Rejected,51,Failed,Metadata Mismatch,Breached
+DOC-2024-412,2024-02-23,K-1 Tax Document,eFront,Analyst C,Completed,42,Passed,None,Met
+DOC-2024-065,2024-02-24,K-1 Tax Document,Allvue,Analyst A,Rejected,52,Failed,Missing Signature,Breached
+DOC-2024-210,2024-02-24,Quarterly Financial Report,Allvue,Analyst C,Completed,43,Passed,None,Met
+DOC-2024-278,2024-02-24,Quarterly Financial Report,Investran,Analyst E,Completed,56,Passed,None,Breached
+DOC-2024-355,2024-02-24,Capital Account Statement,eFront,Analyst D,In Progress,44,Failed,Metadata Mismatch,Met
+DOC-2024-409,2024-02-24,Capital Call Notice,Investran,Analyst E,Completed,30,Passed,None,Met
+DOC-2024-039,2024-02-25,Distribution Notice,eFront,Analyst D,Completed,20,Passed,None,Met
+DOC-2024-356,2024-02-28,Quarterly Financial Report,eFront,Analyst D,Completed,62,Passed,None,Breached
+DOC-2024-402,2024-02-28,Quarterly Financial Report,eFront,Analyst B,Completed,52,Passed,None,Met
+DOC-2024-435,2024-02-28,Capital Call Notice,Investran,Analyst E,In Progress,36,Failed,Incorrect Amount,Met
+DOC-2024-443,2024-02-28,Capital Account Statement,eFront,Analyst D,Rejected,61,Failed,Missing Signature,Breached
+DOC-2024-031,2024-02-29,Distribution Notice,eFront,Analyst A,Completed,29,Passed,None,Met
+DOC-2024-263,2024-03-01,K-1 Tax Document,Investran,Analyst C,Completed,38,Passed,None,Met
+DOC-2024-413,2024-03-01,Distribution Notice,eFront,Analyst B,Completed,30,Passed,None,Met
+DOC-2024-117,2024-03-03,Capital Call Notice,Allvue,Analyst B,Completed,30,Passed,None,Met
+DOC-2024-162,2024-03-03,K-1 Tax Document,eFront,Analyst A,Completed,45,Passed,None,Met
+DOC-2024-102,2024-03-04,Quarterly Financial Report,Investran,Analyst B,Completed,59,Passed,None,Breached
+DOC-2024-139,2024-03-04,Quarterly Financial Report,Investran,Analyst A,Completed,54,Passed,None,Met
+DOC-2024-397,2024-03-04,Quarterly Financial Report,Investran,Analyst D,Completed,59,Passed,None,Breached
+DOC-2024-095,2024-03-06,Capital Account Statement,eFront,Analyst C,Completed,45,Passed,None,Met
+DOC-2024-159,2024-03-07,Capital Call Notice,Allvue,Analyst E,Completed,32,Passed,None,Met
+DOC-2024-299,2024-03-09,Distribution Notice,eFront,Analyst B,Completed,25,Passed,None,Met
+DOC-2024-457,2024-03-10,Capital Call Notice,eFront,Analyst B,Completed,23,Passed,None,Met
+DOC-2024-468,2024-03-10,Distribution Notice,Investran,Analyst E,Rejected,35,Failed,Metadata Mismatch,Met
+DOC-2024-005,2024-03-13,Distribution Notice,Allvue,Analyst C,Completed,23,Passed,None,Met
+DOC-2024-282,2024-03-16,Capital Call Notice,eFront,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-461,2024-03-17,Quarterly Financial Report,eFront,Analyst C,Completed,63,Passed,None,Breached
+DOC-2024-061,2024-03-22,Distribution Notice,Investran,Analyst E,Completed,24,Passed,None,Met
+DOC-2024-104,2024-03-22,Capital Call Notice,Allvue,Analyst D,Completed,30,Passed,None,Met
+DOC-2024-204,2024-03-22,Quarterly Financial Report,eFront,Analyst E,Rejected,72,Failed,Metadata Mismatch,Breached
+DOC-2024-157,2024-03-27,Subscription Agreement,FIS Investier,Analyst A,Completed,59,Passed,None,Breached
+DOC-2024-464,2024-03-27,Distribution Notice,Investran,Analyst A,Completed,32,Passed,None,Met
+DOC-2024-012,2024-03-29,Subscription Agreement,Investran,Analyst E,Completed,47,Passed,None,Met
+DOC-2024-049,2024-03-30,Distribution Notice,eFront,Analyst A,Completed,12,Passed,None,Met
+DOC-2024-452,2024-03-30,Subscription Agreement,Allvue,Analyst D,Completed,43,Passed,None,Met
+DOC-2024-057,2024-04-02,Side Letter,eFront,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-388,2024-04-02,Quarterly Financial Report,Allvue,Analyst C,Rejected,70,Failed,Incorrect Amount,Breached
+DOC-2024-434,2024-04-02,Subscription Agreement,Investran,Analyst B,Completed,65,Passed,None,Breached
+DOC-2024-470,2024-04-04,Subscription Agreement,Investran,Analyst D,Completed,59,Passed,None,Breached
+DOC-2024-342,2024-04-05,Quarterly Financial Report,FIS Investier,Analyst B,Completed,49,Passed,None,Met
+DOC-2024-144,2024-04-06,Side Letter,eFront,Analyst A,Completed,44,Passed,None,Met
+DOC-2024-193,2024-04-06,Quarterly Financial Report,Allvue,Analyst E,Completed,58,Passed,None,Breached
+DOC-2024-448,2024-04-06,Quarterly Financial Report,eFront,Analyst D,Completed,46,Passed,None,Met
+DOC-2024-492,2024-04-06,Side Letter,Investran,Analyst E,Completed,47,Passed,None,Met
+DOC-2024-234,2024-04-07,Capital Call Notice,Investran,Analyst C,Rejected,32,Failed,Incorrect Amount,Met
+DOC-2024-320,2024-04-07,Side Letter,eFront,Analyst A,Completed,38,Passed,None,Met
+DOC-2024-230,2024-04-08,Capital Call Notice,eFront,Analyst E,Completed,27,Passed,None,Met
+DOC-2024-120,2024-04-09,Side Letter,Investran,Analyst B,Completed,33,Passed,None,Met
+DOC-2024-257,2024-04-09,Quarterly Financial Report,Investran,Analyst B,Completed,61,Passed,None,Breached
+DOC-2024-272,2024-04-09,Capital Account Statement,eFront,Analyst B,Completed,37,Passed,None,Met
+DOC-2024-289,2024-04-09,Capital Call Notice,Investran,Analyst C,Completed,30,Passed,None,Met
+DOC-2024-335,2024-04-09,Distribution Notice,Investran,Analyst B,Completed,23,Passed,None,Met
+DOC-2024-343,2024-04-09,Capital Call Notice,Allvue,Analyst D,In Progress,35,Failed,Missing Signature,Met
+DOC-2024-013,2024-04-10,Capital Call Notice,Allvue,Analyst A,Completed,26,Passed,None,Met
+DOC-2024-476,2024-04-10,Quarterly Financial Report,Allvue,Analyst A,Completed,37,Passed,None,Met
+DOC-2024-486,2024-04-10,Capital Account Statement,eFront,Analyst D,Completed,35,Passed,None,Met
+DOC-2024-126,2024-04-11,Capital Account Statement,Allvue,Analyst C,Rejected,31,Failed,Metadata Mismatch,Met
+DOC-2024-202,2024-04-11,Capital Call Notice,eFront,Analyst C,Completed,36,Passed,None,Met
+DOC-2024-410,2024-04-11,Quarterly Financial Report,Investran,Analyst C,Completed,48,Passed,None,Met
+DOC-2024-001,2024-04-13,Capital Call Notice,Investran,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-008,2024-04-13,Quarterly Financial Report,eFront,Analyst D,Completed,45,Passed,None,Met
+DOC-2024-416,2024-04-13,K-1 Tax Document,Allvue,Analyst D,Completed,34,Passed,None,Met
+DOC-2024-284,2024-04-14,Distribution Notice,eFront,Analyst E,Rejected,37,Failed,Illegible Scan,Met
+DOC-2024-368,2024-04-14,Capital Account Statement,FIS Investier,Analyst B,Completed,34,Passed,None,Met
+DOC-2024-066,2024-04-16,K-1 Tax Document,eFront,Analyst A,Rejected,40,Failed,Incorrect Amount,Met
+DOC-2024-427,2024-04-16,Distribution Notice,eFront,Analyst D,Completed,37,Passed,None,Met
+DOC-2024-004,2024-04-17,Quarterly Financial Report,Investran,Analyst C,In Progress,62,Failed,Missing Signature,Breached
+DOC-2024-166,2024-04-18,Distribution Notice,Investran,Analyst B,Completed,38,Passed,None,Met
+DOC-2024-414,2024-04-18,K-1 Tax Document,Investran,Analyst C,Rejected,39,Failed,Metadata Mismatch,Met
+DOC-2024-262,2024-04-22,Distribution Notice,Allvue,Analyst B,Completed,39,Passed,None,Breached
+DOC-2024-288,2024-04-22,Distribution Notice,eFront,Analyst D,Completed,19,Passed,None,Met
+DOC-2024-196,2024-04-23,K-1 Tax Document,eFront,Analyst D,Completed,44,Passed,None,Met
+DOC-2024-201,2024-04-23,Capital Call Notice,Allvue,Analyst C,Completed,19,Passed,None,Met
+DOC-2024-203,2024-04-23,Capital Account Statement,eFront,Analyst E,Completed,32,Passed,None,Met
+DOC-2024-206,2024-04-23,Capital Call Notice,FIS Investier,Analyst E,Completed,18,Passed,None,Met
+DOC-2024-283,2024-04-23,Distribution Notice,eFront,Analyst A,Completed,29,Passed,None,Met
+DOC-2024-361,2024-04-24,K-1 Tax Document,Investran,Analyst E,Completed,34,Passed,None,Met
+DOC-2024-178,2024-04-26,Quarterly Financial Report,Investran,Analyst C,Completed,48,Passed,None,Met
+DOC-2024-281,2024-04-26,Quarterly Financial Report,Allvue,Analyst D,Completed,53,Passed,None,Met
+DOC-2024-345,2024-04-26,Quarterly Financial Report,Allvue,Analyst B,Completed,58,Passed,None,Breached
+DOC-2024-438,2024-04-27,Quarterly Financial Report,eFront,Analyst A,Completed,43,Passed,None,Met
+DOC-2024-450,2024-04-28,Capital Account Statement,Allvue,Analyst C,Completed,28,Passed,None,Met
+DOC-2024-279,2024-04-30,Capital Call Notice,eFront,Analyst A,Completed,38,Passed,None,Met
+DOC-2024-431,2024-04-30,Quarterly Financial Report,Investran,Analyst A,Completed,53,Passed,None,Met
+DOC-2024-177,2024-05-01,Side Letter,Investran,Analyst B,Completed,37,Passed,None,Met
+DOC-2024-009,2024-05-02,Subscription Agreement,eFront,Analyst C,Completed,61,Passed,None,Breached
+DOC-2024-444,2024-05-02,Subscription Agreement,Allvue,Analyst E,Completed,46,Passed,None,Met
+DOC-2024-225,2024-05-03,Quarterly Financial Report,Allvue,Analyst B,In Progress,41,Failed,Metadata Mismatch,Met
+DOC-2024-236,2024-05-04,Capital Account Statement,eFront,Analyst B,Rejected,39,Failed,Missing Signature,Met
+DOC-2024-426,2024-05-04,Quarterly Financial Report,Allvue,Analyst E,Completed,60,Passed,None,Breached
+DOC-2024-399,2024-05-05,Capital Call Notice,eFront,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-214,2024-05-06,Distribution Notice,Investran,Analyst E,Completed,31,Passed,None,Met
+DOC-2024-449,2024-05-06,Distribution Notice,Allvue,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-365,2024-05-07,Subscription Agreement,FIS Investier,Analyst A,Completed,68,Passed,None,Breached
+DOC-2024-441,2024-05-07,Subscription Agreement,Investran,Analyst D,Completed,40,Passed,None,Met
+DOC-2024-171,2024-05-08,Distribution Notice,Allvue,Analyst A,Completed,27,Passed,None,Met
+DOC-2024-249,2024-05-08,Capital Call Notice,FIS Investier,Analyst C,Completed,29,Passed,None,Met
+DOC-2024-305,2024-05-08,Distribution Notice,Allvue,Analyst C,Completed,18,Passed,None,Met
+DOC-2024-351,2024-05-08,Distribution Notice,eFront,Analyst B,Rejected,30,Failed,Incorrect Amount,Met
+DOC-2024-100,2024-05-09,Quarterly Financial Report,Investran,Analyst A,Completed,56,Passed,None,Breached
+DOC-2024-253,2024-05-09,Quarterly Financial Report,eFront,Analyst A,Completed,45,Passed,None,Met
+DOC-2024-442,2024-05-09,Quarterly Financial Report,Investran,Analyst D,Completed,53,Passed,None,Met
+DOC-2024-208,2024-05-10,Capital Call Notice,eFront,Analyst A,Rejected,40,Failed,Metadata Mismatch,Breached
+DOC-2024-215,2024-05-10,Quarterly Financial Report,Investran,Analyst C,Completed,52,Passed,None,Met
+DOC-2024-016,2024-05-11,Capital Call Notice,Investran,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-042,2024-05-11,Distribution Notice,FIS Investier,Analyst C,Rejected,35,Failed,Missing Signature,Met
+DOC-2024-127,2024-05-11,Quarterly Financial Report,Investran,Analyst A,Completed,53,Passed,None,Met
+DOC-2024-276,2024-05-11,Subscription Agreement,eFront,Analyst A,Completed,57,Passed,None,Breached
+DOC-2024-163,2024-05-14,Side Letter,FIS Investier,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-044,2024-05-15,Capital Account Statement,Investran,Analyst C,Completed,43,Passed,None,Met
+DOC-2024-111,2024-05-15,Distribution Notice,Allvue,Analyst E,Rejected,31,Failed,Metadata Mismatch,Met
+DOC-2024-303,2024-05-15,Capital Account Statement,Allvue,Analyst A,Rejected,44,Failed,Missing Signature,Met
+DOC-2024-101,2024-05-16,Capital Call Notice,eFront,Analyst C,Completed,31,Passed,None,Met
+DOC-2024-183,2024-05-17,Quarterly Financial Report,Investran,Analyst C,Completed,47,Passed,None,Met
+DOC-2024-103,2024-05-19,Capital Call Notice,Investran,Analyst D,Completed,33,Passed,None,Met
+DOC-2024-267,2024-05-20,Distribution Notice,Allvue,Analyst C,Rejected,38,Failed,Incorrect Amount,Met
+DOC-2024-386,2024-05-22,Distribution Notice,Allvue,Analyst A,Completed,19,Passed,None,Met
+DOC-2024-148,2024-05-23,K-1 Tax Document,Allvue,Analyst C,Completed,31,Passed,None,Met
+DOC-2024-387,2024-05-23,Capital Account Statement,Allvue,Analyst C,In Progress,53,Failed,Incorrect Amount,Breached
+DOC-2024-233,2024-05-24,Capital Call Notice,FIS Investier,Analyst A,Completed,24,Passed,None,Met
+DOC-2024-260,2024-05-24,Subscription Agreement,eFront,Analyst B,Completed,53,Passed,None,Met
+DOC-2024-424,2024-05-24,Capital Account Statement,eFront,Analyst D,Completed,37,Passed,None,Met
+DOC-2024-463,2024-05-24,Capital Call Notice,Investran,Analyst E,Completed,17,Passed,None,Met
+DOC-2024-430,2024-05-25,Subscription Agreement,eFront,Analyst A,Rejected,59,Failed,Metadata Mismatch,Breached
+DOC-2024-244,2024-05-27,Capital Call Notice,Investran,Analyst D,Completed,22,Passed,None,Met
+DOC-2024-273,2024-05-27,Capital Call Notice,Investran,Analyst C,Rejected,32,Failed,Metadata Mismatch,Met
+DOC-2024-324,2024-05-27,K-1 Tax Document,eFront,Analyst D,Completed,52,Passed,None,Breached
+DOC-2024-429,2024-05-27,Capital Call Notice,Investran,Analyst C,Completed,23,Passed,None,Met
+DOC-2024-491,2024-05-27,Capital Call Notice,Investran,Analyst E,Rejected,43,Failed,Illegible Scan,Breached
+DOC-2024-241,2024-05-28,Capital Account Statement,Investran,Analyst B,Completed,37,Passed,None,Met
+DOC-2024-245,2024-05-28,Capital Call Notice,Investran,Analyst A,Completed,34,Passed,None,Met
+DOC-2024-017,2024-05-30,Capital Call Notice,eFront,Analyst B,Completed,23,Passed,None,Met
+DOC-2024-400,2024-05-30,K-1 Tax Document,eFront,Analyst A,Completed,47,Passed,None,Met
+DOC-2024-255,2024-05-31,Capital Call Notice,Allvue,Analyst A,Completed,25,Passed,None,Met
+DOC-2024-364,2024-05-31,Capital Account Statement,Investran,Analyst A,Completed,40,Passed,None,Met
+DOC-2024-015,2024-06-01,Capital Call Notice,Investran,Analyst B,Completed,21,Passed,None,Met
+DOC-2024-190,2024-06-01,Distribution Notice,eFront,Analyst B,Completed,19,Passed,None,Met
+DOC-2024-277,2024-06-01,Quarterly Financial Report,Investran,Analyst B,Completed,38,Passed,None,Met
+DOC-2024-290,2024-06-02,Subscription Agreement,Allvue,Analyst B,Completed,40,Passed,None,Met
+DOC-2024-395,2024-06-02,Capital Call Notice,Allvue,Analyst D,Completed,26,Passed,None,Met
+DOC-2024-462,2024-06-03,Distribution Notice,Allvue,Analyst B,Completed,32,Passed,None,Met
+DOC-2024-366,2024-06-04,Capital Call Notice,Investran,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-092,2024-06-06,Capital Account Statement,FIS Investier,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-310,2024-06-07,Capital Call Notice,Allvue,Analyst B,Completed,30,Passed,None,Met
+DOC-2024-332,2024-06-07,Distribution Notice,Investran,Analyst C,Completed,35,Passed,None,Met
+DOC-2024-428,2024-06-07,Distribution Notice,Investran,Analyst C,Completed,22,Passed,None,Met
+DOC-2024-153,2024-06-09,Subscription Agreement,Investran,Analyst C,Completed,44,Passed,None,Met
+DOC-2024-192,2024-06-09,Capital Account Statement,Investran,Analyst D,Completed,37,Passed,None,Met
+DOC-2024-219,2024-06-09,K-1 Tax Document,FIS Investier,Analyst E,In Progress,58,Failed,Metadata Mismatch,Breached
+DOC-2024-269,2024-06-09,Quarterly Financial Report,eFront,Analyst D,Completed,72,Passed,None,Breached
+DOC-2024-024,2024-06-10,Distribution Notice,Investran,Analyst D,Completed,24,Passed,None,Met
+DOC-2024-280,2024-06-10,Distribution Notice,Investran,Analyst C,Rejected,24,Failed,Incorrect Amount,Met
+DOC-2024-298,2024-06-10,Capital Account Statement,eFront,Analyst E,Completed,43,Passed,None,Met
+DOC-2024-348,2024-06-10,Capital Call Notice,Investran,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-072,2024-06-11,Subscription Agreement,eFront,Analyst D,Rejected,54,Failed,Metadata Mismatch,Met
+DOC-2024-105,2024-06-12,Capital Call Notice,Investran,Analyst E,In Progress,34,Failed,Incorrect Amount,Met
+DOC-2024-295,2024-06-12,Capital Call Notice,Allvue,Analyst A,Completed,18,Passed,None,Met
+DOC-2024-185,2024-06-14,Side Letter,eFront,Analyst B,Completed,34,Passed,None,Met
+DOC-2024-047,2024-06-16,Quarterly Financial Report,Investran,Analyst B,Completed,71,Passed,None,Breached
+DOC-2024-297,2024-06-18,Quarterly Financial Report,eFront,Analyst C,Completed,56,Passed,None,Breached
+DOC-2024-032,2024-06-19,Capital Call Notice,Investran,Analyst A,Completed,14,Passed,None,Met
+DOC-2024-160,2024-06-19,Capital Call Notice,FIS Investier,Analyst C,Completed,22,Passed,None,Met
+DOC-2024-373,2024-06-19,Capital Call Notice,FIS Investier,Analyst B,Completed,32,Passed,None,Met
+DOC-2024-406,2024-06-19,Distribution Notice,Allvue,Analyst C,Completed,33,Passed,None,Met
+DOC-2024-149,2024-06-20,Capital Account Statement,Allvue,Analyst D,Completed,34,Passed,None,Met
+DOC-2024-121,2024-06-21,Capital Call Notice,eFront,Analyst B,Completed,21,Passed,None,Met
+DOC-2024-189,2024-06-21,Quarterly Financial Report,FIS Investier,Analyst E,Completed,58,Passed,None,Breached
+DOC-2024-217,2024-06-21,Distribution Notice,Investran,Analyst E,Completed,38,Passed,None,Met
+DOC-2024-330,2024-06-21,Quarterly Financial Report,FIS Investier,Analyst E,Completed,60,Passed,None,Breached
+DOC-2024-382,2024-06-22,K-1 Tax Document,eFront,Analyst B,Completed,44,Passed,None,Met
+DOC-2024-359,2024-06-23,Distribution Notice,eFront,Analyst D,Rejected,37,Failed,Missing Signature,Met
+DOC-2024-036,2024-06-24,Distribution Notice,Allvue,Analyst E,Completed,28,Passed,None,Met
+DOC-2024-307,2024-06-25,Quarterly Financial Report,Investran,Analyst C,Completed,54,Passed,None,Met
+DOC-2024-371,2024-06-25,Capital Call Notice,Investran,Analyst D,Completed,16,Passed,None,Met
+DOC-2024-138,2024-06-28,Capital Call Notice,eFront,Analyst B,Completed,29,Passed,None,Met
+DOC-2024-195,2024-06-29,Quarterly Financial Report,Allvue,Analyst E,Completed,38,Passed,None,Met
+DOC-2024-405,2024-06-29,Capital Call Notice,Investran,Analyst B,Completed,13,Passed,None,Met
+DOC-2024-488,2024-06-29,Side Letter,Allvue,Analyst C,Completed,35,Passed,None,Met
+DOC-2024-341,2024-06-30,Distribution Notice,FIS Investier,Analyst C,Completed,34,Passed,None,Met
+DOC-2024-224,2024-07-03,Distribution Notice,FIS Investier,Analyst C,Completed,22,Passed,None,Met
+DOC-2024-465,2024-07-04,K-1 Tax Document,Investran,Analyst C,In Progress,56,Failed,Incorrect Amount,Breached
+DOC-2024-396,2024-07-05,Subscription Agreement,eFront,Analyst E,Completed,56,Passed,None,Breached
+DOC-2024-155,2024-07-06,Quarterly Financial Report,Investran,Analyst B,Completed,50,Passed,None,Met
+DOC-2024-205,2024-07-06,Capital Account Statement,Allvue,Analyst C,Completed,32,Passed,None,Met
+DOC-2024-237,2024-07-06,Capital Call Notice,eFront,Analyst E,Completed,22,Passed,None,Met
+DOC-2024-033,2024-07-07,Capital Account Statement,Investran,Analyst D,Completed,39,Passed,None,Met
+DOC-2024-090,2024-07-07,Subscription Agreement,Investran,Analyst B,Rejected,68,Failed,Illegible Scan,Breached
+DOC-2024-344,2024-07-07,Quarterly Financial Report,Investran,Analyst D,Completed,61,Passed,None,Breached
+DOC-2024-006,2024-07-08,Capital Account Statement,eFront,Analyst B,Completed,37,Passed,None,Met
+DOC-2024-455,2024-07-08,Side Letter,Investran,Analyst E,Completed,33,Passed,None,Met
+DOC-2024-035,2024-07-09,Side Letter,Allvue,Analyst C,Completed,49,Passed,None,Breached
+DOC-2024-080,2024-07-09,Capital Account Statement,Investran,Analyst A,In Progress,46,Failed,Missing Signature,Met
+DOC-2024-174,2024-07-09,K-1 Tax Document,Allvue,Analyst A,Completed,36,Passed,None,Met
+DOC-2024-398,2024-07-09,Distribution Notice,Investran,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-069,2024-07-10,Capital Call Notice,eFront,Analyst D,Completed,17,Passed,None,Met
+DOC-2024-346,2024-07-10,Capital Call Notice,Investran,Analyst D,Completed,33,Passed,None,Met
+DOC-2024-022,2024-07-11,Capital Call Notice,eFront,Analyst E,Completed,24,Passed,None,Met
+DOC-2024-327,2024-07-11,Capital Call Notice,eFront,Analyst E,Rejected,30,Failed,Incorrect Amount,Met
+DOC-2024-456,2024-07-11,K-1 Tax Document,FIS Investier,Analyst C,Completed,39,Passed,None,Met
+DOC-2024-293,2024-07-13,K-1 Tax Document,Allvue,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-304,2024-07-14,Quarterly Financial Report,Investran,Analyst A,Completed,46,Passed,None,Met
+DOC-2024-417,2024-07-15,Capital Call Notice,Allvue,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-182,2024-07-17,Capital Call Notice,Allvue,Analyst A,Completed,12,Passed,None,Met
+DOC-2024-220,2024-07-17,Subscription Agreement,eFront,Analyst D,In Progress,56,Failed,Incorrect Amount,Breached
+DOC-2024-231,2024-07-17,Capital Call Notice,eFront,Analyst D,Completed,12,Passed,None,Met
+DOC-2024-247,2024-07-18,Capital Call Notice,FIS Investier,Analyst E,Completed,19,Passed,None,Met
+DOC-2024-112,2024-07-20,K-1 Tax Document,Investran,Analyst A,Completed,34,Passed,None,Met
+DOC-2024-235,2024-07-20,Capital Call Notice,FIS Investier,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-073,2024-07-21,Distribution Notice,eFront,Analyst B,Completed,13,Passed,None,Met
+DOC-2024-223,2024-07-22,Quarterly Financial Report,Investran,Analyst D,Completed,61,Passed,None,Breached
+DOC-2024-472,2024-07-23,Distribution Notice,Allvue,Analyst D,Completed,36,Passed,None,Met
+DOC-2024-060,2024-07-25,Distribution Notice,eFront,Analyst C,Completed,37,Passed,None,Met
+DOC-2024-134,2024-07-26,Subscription Agreement,Allvue,Analyst A,Completed,54,Passed,None,Met
+DOC-2024-083,2024-07-27,Capital Account Statement,Investran,Analyst E,Completed,37,Passed,None,Met
+DOC-2024-275,2024-07-27,Capital Account Statement,Allvue,Analyst B,Completed,35,Passed,None,Met
+DOC-2024-296,2024-07-27,Quarterly Financial Report,Allvue,Analyst B,Rejected,66,Failed,Incorrect Amount,Breached
+DOC-2024-082,2024-08-01,K-1 Tax Document,FIS Investier,Analyst E,Completed,37,Passed,None,Met
+DOC-2024-123,2024-08-02,Side Letter,eFront,Analyst B,Completed,44,Passed,None,Met
+DOC-2024-010,2024-08-03,Distribution Notice,eFront,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-078,2024-08-03,Capital Call Notice,eFront,Analyst B,Rejected,37,Failed,Incorrect Amount,Met
+DOC-2024-392,2024-08-03,Quarterly Financial Report,Investran,Analyst B,Completed,49,Passed,None,Met
+DOC-2024-118,2024-08-04,Subscription Agreement,Investran,Analyst C,Completed,60,Passed,None,Breached
+DOC-2024-088,2024-08-05,Distribution Notice,Allvue,Analyst C,Completed,25,Passed,None,Met
+DOC-2024-070,2024-08-06,Quarterly Financial Report,Investran,Analyst C,Completed,44,Passed,None,Met
+DOC-2024-130,2024-08-06,Subscription Agreement,eFront,Analyst A,Completed,63,Passed,None,Breached
+DOC-2024-218,2024-08-06,Quarterly Financial Report,Investran,Analyst D,Completed,54,Passed,None,Met
+DOC-2024-473,2024-08-06,Capital Account Statement,eFront,Analyst A,Completed,38,Passed,None,Met
+DOC-2024-209,2024-08-08,Distribution Notice,eFront,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-331,2024-08-08,Quarterly Financial Report,eFront,Analyst B,Completed,51,Passed,None,Met
+DOC-2024-467,2024-08-08,Distribution Notice,Allvue,Analyst C,Completed,29,Passed,None,Met
+DOC-2024-145,2024-08-10,Capital Account Statement,Investran,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-479,2024-08-10,Quarterly Financial Report,FIS Investier,Analyst D,Completed,49,Passed,None,Met
+DOC-2024-354,2024-08-11,Capital Account Statement,FIS Investier,Analyst A,Completed,44,Passed,None,Met
+DOC-2024-489,2024-08-11,Capital Call Notice,Allvue,Analyst C,Completed,26,Passed,None,Met
+DOC-2024-212,2024-08-12,Distribution Notice,Investran,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-175,2024-08-13,K-1 Tax Document,Investran,Analyst C,Completed,42,Passed,None,Met
+DOC-2024-186,2024-08-13,Quarterly Financial Report,Allvue,Analyst B,Completed,51,Passed,None,Met
+DOC-2024-213,2024-08-13,Subscription Agreement,Investran,Analyst E,Completed,74,Passed,None,Breached
+DOC-2024-317,2024-08-14,Capital Call Notice,eFront,Analyst A,Completed,22,Passed,None,Met
+DOC-2024-125,2024-08-15,Quarterly Financial Report,Investran,Analyst D,Completed,50,Passed,None,Met
+DOC-2024-287,2024-08-15,Capital Call Notice,eFront,Analyst C,Rejected,38,Failed,Incorrect Amount,Met
+DOC-2024-437,2024-08-17,Quarterly Financial Report,eFront,Analyst D,Completed,43,Passed,None,Met
+DOC-2024-312,2024-08-18,Capital Call Notice,eFront,Analyst D,Completed,22,Passed,None,Met
+DOC-2024-108,2024-08-19,Quarterly Financial Report,Investran,Analyst B,Completed,52,Passed,None,Met
+DOC-2024-141,2024-08-19,Quarterly Financial Report,FIS Investier,Analyst A,Completed,42,Passed,None,Met
+DOC-2024-146,2024-08-19,Quarterly Financial Report,eFront,Analyst E,Completed,52,Passed,None,Met
+DOC-2024-173,2024-08-19,Capital Call Notice,Investran,Analyst A,Completed,22,Passed,None,Met
+DOC-2024-179,2024-08-21,Capital Account Statement,Investran,Analyst C,Completed,38,Passed,None,Met
+DOC-2024-194,2024-08-21,Capital Account Statement,Investran,Analyst B,Completed,30,Passed,None,Met
+DOC-2024-271,2024-08-21,Quarterly Financial Report,Investran,Analyst A,Completed,47,Passed,None,Met
+DOC-2024-336,2024-08-21,Distribution Notice,eFront,Analyst C,Completed,20,Passed,None,Met
+DOC-2024-188,2024-08-22,Capital Account Statement,eFront,Analyst E,Rejected,62,Failed,Missing Signature,Breached
+DOC-2024-028,2024-08-24,K-1 Tax Document,Investran,Analyst B,Completed,44,Passed,None,Met
+DOC-2024-084,2024-08-25,Capital Call Notice,eFront,Analyst C,Completed,32,Passed,None,Met
+DOC-2024-147,2024-08-25,Distribution Notice,Allvue,Analyst A,Completed,28,Passed,None,Met
+DOC-2024-453,2024-08-25,Quarterly Financial Report,Investran,Analyst C,Completed,54,Passed,None,Met
+DOC-2024-309,2024-08-26,Capital Call Notice,Investran,Analyst B,Completed,27,Passed,None,Met
+DOC-2024-471,2024-08-26,Distribution Notice,Investran,Analyst C,Completed,21,Passed,None,Met
+DOC-2024-446,2024-08-27,Capital Call Notice,FIS Investier,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-232,2024-08-28,Capital Call Notice,Investran,Analyst B,Completed,20,Passed,None,Met
+DOC-2024-142,2024-08-29,Capital Call Notice,Investran,Analyst A,Completed,26,Passed,None,Met
+DOC-2024-052,2024-08-30,Capital Call Notice,Investran,Analyst D,Completed,38,Passed,None,Met
+DOC-2024-156,2024-08-31,Distribution Notice,FIS Investier,Analyst E,Completed,21,Passed,None,Met
+DOC-2024-040,2024-09-01,Subscription Agreement,Investran,Analyst D,Completed,44,Passed,None,Met
+DOC-2024-370,2024-09-03,K-1 Tax Document,eFront,Analyst E,Completed,39,Passed,None,Met
+DOC-2024-484,2024-09-03,Capital Account Statement,Investran,Analyst B,Completed,39,Passed,None,Met
+DOC-2024-221,2024-09-04,Capital Call Notice,Investran,Analyst C,Completed,25,Passed,None,Met
+DOC-2024-374,2024-09-04,Capital Call Notice,eFront,Analyst E,In Progress,37,Failed,Missing Signature,Met
+DOC-2024-460,2024-09-04,Quarterly Financial Report,eFront,Analyst B,In Progress,76,Failed,Incorrect Amount,Breached
+DOC-2024-499,2024-09-04,Capital Call Notice,eFront,Analyst B,Completed,21,Passed,None,Met
+DOC-2024-482,2024-09-07,Distribution Notice,eFront,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-490,2024-09-07,Distribution Notice,eFront,Analyst D,Completed,25,Passed,None,Met
+DOC-2024-079,2024-09-09,Capital Call Notice,Investran,Analyst E,Completed,29,Passed,None,Met
+DOC-2024-089,2024-09-09,K-1 Tax Document,Investran,Analyst D,Completed,45,Passed,None,Met
+DOC-2024-242,2024-09-09,Capital Call Notice,Investran,Analyst D,Completed,22,Passed,None,Met
+DOC-2024-259,2024-09-09,K-1 Tax Document,eFront,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-027,2024-09-10,Quarterly Financial Report,Investran,Analyst D,Rejected,67,Failed,Incorrect Amount,Breached
+DOC-2024-347,2024-09-10,Distribution Notice,Investran,Analyst E,Rejected,25,Failed,Incorrect Amount,Met
+DOC-2024-266,2024-09-11,Capital Call Notice,FIS Investier,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-286,2024-09-11,Distribution Notice,Investran,Analyst E,Completed,26,Passed,None,Met
+DOC-2024-478,2024-09-11,Capital Call Notice,FIS Investier,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-131,2024-09-12,Capital Call Notice,eFront,Analyst C,Completed,12,Passed,None,Met
+DOC-2024-226,2024-09-12,Side Letter,Investran,Analyst D,Completed,40,Passed,None,Met
+DOC-2024-349,2024-09-13,Capital Call Notice,eFront,Analyst E,Completed,30,Passed,None,Met
+DOC-2024-128,2024-09-14,Quarterly Financial Report,Investran,Analyst D,Completed,52,Passed,None,Met
+DOC-2024-493,2024-09-14,Quarterly Financial Report,FIS Investier,Analyst E,Completed,47,Passed,None,Met
+DOC-2024-019,2024-09-15,Capital Call Notice,Investran,Analyst B,Completed,29,Passed,None,Met
+DOC-2024-500,2024-09-15,Capital Call Notice,Allvue,Analyst E,Completed,21,Passed,None,Met
+DOC-2024-180,2024-09-16,Subscription Agreement,eFront,Analyst B,Completed,57,Passed,None,Breached
+DOC-2024-240,2024-09-16,Quarterly Financial Report,Investran,Analyst E,Completed,52,Passed,None,Met
+DOC-2024-067,2024-09-17,Capital Call Notice,FIS Investier,Analyst D,Completed,28,Passed,None,Met
+DOC-2024-107,2024-09-18,Capital Account Statement,Investran,Analyst B,Completed,32,Passed,None,Met
+DOC-2024-418,2024-09-19,Distribution Notice,Investran,Analyst B,Completed,19,Passed,None,Met
+DOC-2024-258,2024-09-20,Capital Call Notice,eFront,Analyst A,Completed,26,Passed,None,Met
+DOC-2024-058,2024-09-21,Quarterly Financial Report,eFront,Analyst D,Completed,54,Passed,None,Met
+DOC-2024-314,2024-09-21,Distribution Notice,Investran,Analyst A,Completed,17,Passed,None,Met
+DOC-2024-385,2024-09-21,Quarterly Financial Report,Allvue,Analyst A,Completed,47,Passed,None,Met
+DOC-2024-411,2024-09-21,Capital Account Statement,Investran,Analyst B,Completed,45,Passed,None,Met
+DOC-2024-053,2024-09-22,Subscription Agreement,Investran,Analyst C,Completed,41,Passed,None,Met
+DOC-2024-254,2024-09-24,Capital Account Statement,Investran,Analyst B,Completed,29,Passed,None,Met
+DOC-2024-114,2024-09-25,Side Letter,eFront,Analyst E,Completed,39,Passed,None,Met
+DOC-2024-199,2024-09-25,K-1 Tax Document,FIS Investier,Analyst B,Completed,32,Passed,None,Met
+DOC-2024-425,2024-09-26,Capital Account Statement,eFront,Analyst A,Completed,33,Passed,None,Met
+DOC-2024-074,2024-09-27,Capital Call Notice,Investran,Analyst B,Completed,45,Passed,None,Breached
+DOC-2024-003,2024-09-28,Subscription Agreement,eFront,Analyst B,Completed,52,Passed,None,Met
+DOC-2024-034,2024-09-28,K-1 Tax Document,Investran,Analyst B,Completed,30,Passed,None,Met
+DOC-2024-077,2024-09-28,Quarterly Financial Report,FIS Investier,Analyst D,Completed,63,Passed,None,Breached
+DOC-2024-408,2024-09-28,Capital Account Statement,eFront,Analyst A,Completed,32,Passed,None,Met
+DOC-2024-454,2024-09-29,Capital Call Notice,Allvue,Analyst C,Completed,26,Passed,None,Met
+DOC-2024-367,2024-09-30,Capital Call Notice,eFront,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-048,2024-10-01,K-1 Tax Document,eFront,Analyst D,Completed,32,Passed,None,Met
+DOC-2024-433,2024-10-02,Quarterly Financial Report,Investran,Analyst E,Completed,62,Passed,None,Breached
+DOC-2024-023,2024-10-04,K-1 Tax Document,Investran,Analyst A,Completed,25,Passed,None,Met
+DOC-2024-301,2024-10-04,Distribution Notice,Investran,Analyst B,In Progress,38,Failed,Metadata Mismatch,Met
+DOC-2024-318,2024-10-04,Quarterly Financial Report,Investran,Analyst A,Completed,47,Passed,None,Met
+DOC-2024-458,2024-10-05,Subscription Agreement,Allvue,Analyst B,Completed,50,Passed,None,Met
+DOC-2024-440,2024-10-06,K-1 Tax Document,Investran,Analyst E,Rejected,43,Failed,Incorrect Amount,Met
+DOC-2024-087,2024-10-07,Distribution Notice,eFront,Analyst A,Completed,38,Passed,None,Met
+DOC-2024-228,2024-10-07,Distribution Notice,Allvue,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-338,2024-10-07,Capital Call Notice,eFront,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-360,2024-10-07,Subscription Agreement,Investran,Analyst C,Completed,42,Passed,None,Met
+DOC-2024-497,2024-10-07,Capital Call Notice,eFront,Analyst E,Completed,21,Passed,None,Met
+DOC-2024-353,2024-10-08,Distribution Notice,Investran,Analyst D,Completed,33,Passed,None,Met
+DOC-2024-133,2024-10-10,Side Letter,Investran,Analyst E,Completed,33,Passed,None,Met
+DOC-2024-176,2024-10-10,Side Letter,eFront,Analyst D,Completed,46,Passed,None,Met
+DOC-2024-315,2024-10-10,Capital Call Notice,eFront,Analyst D,Completed,34,Passed,None,Met
+DOC-2024-158,2024-10-11,K-1 Tax Document,Investran,Analyst C,Completed,35,Passed,None,Met
+DOC-2024-164,2024-10-11,Capital Call Notice,Investran,Analyst A,Completed,31,Passed,None,Met
+DOC-2024-321,2024-10-11,Capital Call Notice,Allvue,Analyst D,Completed,27,Passed,None,Met
+DOC-2024-466,2024-10-12,Capital Call Notice,Investran,Analyst A,Completed,17,Passed,None,Met
+DOC-2024-169,2024-10-13,K-1 Tax Document,FIS Investier,Analyst D,Completed,45,Passed,None,Met
+DOC-2024-319,2024-10-13,Distribution Notice,eFront,Analyst C,Completed,17,Passed,None,Met
+DOC-2024-362,2024-10-15,Side Letter,eFront,Analyst D,In Progress,59,Failed,Metadata Mismatch,Breached
+DOC-2024-391,2024-10-15,Distribution Notice,Investran,Analyst D,Completed,19,Passed,None,Met
+DOC-2024-106,2024-10-16,Capital Account Statement,eFront,Analyst D,Completed,45,Passed,None,Met
+DOC-2024-300,2024-10-16,Capital Call Notice,Allvue,Analyst C,Completed,21,Passed,None,Met
+DOC-2024-477,2024-10-16,Capital Call Notice,Investran,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-447,2024-10-17,Quarterly Financial Report,Investran,Analyst E,Completed,39,Passed,None,Met
+DOC-2024-487,2024-10-17,Capital Call Notice,Allvue,Analyst E,Completed,36,Passed,None,Met
+DOC-2024-119,2024-10-20,Quarterly Financial Report,Investran,Analyst B,Completed,38,Passed,None,Met
+DOC-2024-021,2024-10-21,K-1 Tax Document,Allvue,Analyst E,Completed,30,Passed,None,Met
+DOC-2024-227,2024-10-21,Quarterly Financial Report,eFront,Analyst B,Completed,53,Passed,None,Met
+DOC-2024-200,2024-10-22,Distribution Notice,Investran,Analyst D,Completed,33,Passed,None,Met
+DOC-2024-081,2024-10-23,Capital Call Notice,Investran,Analyst C,Completed,33,Passed,None,Met
+DOC-2024-256,2024-10-25,K-1 Tax Document,Investran,Analyst B,Completed,41,Passed,None,Met
+DOC-2024-369,2024-10-26,Quarterly Financial Report,eFront,Analyst A,Completed,57,Passed,None,Breached
+DOC-2024-094,2024-10-28,Capital Call Notice,eFront,Analyst C,Completed,31,Passed,None,Met
+DOC-2024-340,2024-10-29,Quarterly Financial Report,Allvue,Analyst A,Completed,58,Passed,None,Breached
+DOC-2024-076,2024-10-31,Capital Account Statement,Allvue,Analyst E,Rejected,54,Failed,Metadata Mismatch,Breached
+DOC-2024-265,2024-10-31,Capital Call Notice,FIS Investier,Analyst D,Completed,38,Passed,None,Met
+DOC-2024-274,2024-10-31,Distribution Notice,Investran,Analyst D,Completed,19,Passed,None,Met
+DOC-2024-302,2024-10-31,Distribution Notice,FIS Investier,Analyst E,Completed,23,Passed,None,Met
+DOC-2024-323,2024-10-31,Side Letter,Allvue,Analyst A,Completed,27,Passed,None,Met
+DOC-2024-404,2024-11-01,K-1 Tax Document,eFront,Analyst C,In Progress,53,Failed,Incorrect Amount,Breached
+DOC-2024-377,2024-11-02,Capital Account Statement,Investran,Analyst B,Completed,46,Passed,None,Met
+DOC-2024-043,2024-11-03,Capital Account Statement,Investran,Analyst B,Completed,24,Passed,None,Met
+DOC-2024-187,2024-11-03,Capital Call Notice,Investran,Analyst D,Rejected,37,Failed,Metadata Mismatch,Met
+DOC-2024-248,2024-11-04,Capital Call Notice,FIS Investier,Analyst B,Completed,27,Passed,None,Met
+DOC-2024-423,2024-11-04,Capital Account Statement,Investran,Analyst A,Completed,33,Passed,None,Met
+DOC-2024-018,2024-11-05,Capital Account Statement,eFront,Analyst D,Completed,38,Passed,None,Met
+DOC-2024-068,2024-11-06,Quarterly Financial Report,Allvue,Analyst D,Completed,61,Passed,None,Breached
+DOC-2024-294,2024-11-06,Quarterly Financial Report,Allvue,Analyst A,Completed,52,Passed,None,Met
+DOC-2024-422,2024-11-07,Capital Account Statement,FIS Investier,Analyst E,Completed,32,Passed,None,Met
+DOC-2024-380,2024-11-09,K-1 Tax Document,Investran,Analyst A,Completed,37,Passed,None,Met
+DOC-2024-025,2024-11-10,Capital Call Notice,Investran,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-401,2024-11-10,Quarterly Financial Report,Investran,Analyst B,Completed,68,Passed,None,Breached
+DOC-2024-191,2024-11-11,Capital Call Notice,Investran,Analyst A,Completed,32,Passed,None,Met
+DOC-2024-050,2024-11-12,Subscription Agreement,FIS Investier,Analyst A,Completed,49,Passed,None,Met
+DOC-2024-379,2024-11-12,Distribution Notice,eFront,Analyst B,Completed,31,Passed,None,Met
+DOC-2024-322,2024-11-13,Distribution Notice,Investran,Analyst E,Completed,25,Passed,None,Met
+DOC-2024-184,2024-11-14,Capital Call Notice,Investran,Analyst E,Completed,19,Passed,None,Met
+DOC-2024-197,2024-11-14,Quarterly Financial Report,FIS Investier,Analyst D,Completed,55,Passed,None,Met
+DOC-2024-439,2024-11-14,Capital Call Notice,Allvue,Analyst D,Completed,28,Passed,None,Met
+DOC-2024-432,2024-11-15,Distribution Notice,Investran,Analyst E,Completed,29,Passed,None,Met
+DOC-2024-041,2024-11-16,K-1 Tax Document,Investran,Analyst E,Completed,29,Passed,None,Met
+DOC-2024-384,2024-11-17,Distribution Notice,Investran,Analyst A,Completed,22,Passed,None,Met
+DOC-2024-390,2024-11-18,Subscription Agreement,eFront,Analyst B,Completed,58,Passed,None,Breached
+DOC-2024-350,2024-11-19,Side Letter,Allvue,Analyst A,Completed,20,Passed,None,Met
+DOC-2024-357,2024-11-19,Quarterly Financial Report,Investran,Analyst C,In Progress,76,Failed,Missing Signature,Breached
+DOC-2024-222,2024-11-20,Subscription Agreement,eFront,Analyst E,Completed,54,Passed,None,Met
+DOC-2024-229,2024-11-21,Capital Account Statement,FIS Investier,Analyst A,Rejected,52,Failed,Incorrect Amount,Breached
+DOC-2024-485,2024-11-21,Capital Call Notice,Investran,Analyst E,Completed,16,Passed,None,Met
+DOC-2024-494,2024-11-21,Quarterly Financial Report,Investran,Analyst B,Completed,54,Passed,None,Met
+DOC-2024-238,2024-11-22,Distribution Notice,eFront,Analyst A,Completed,26,Passed,None,Met
+DOC-2024-407,2024-11-22,Capital Call Notice,Investran,Analyst D,Completed,23,Passed,None,Met
+DOC-2024-097,2024-11-23,Distribution Notice,Investran,Analyst A,Completed,30,Passed,None,Met
+DOC-2024-154,2024-11-23,Capital Account Statement,eFront,Analyst B,Completed,46,Passed,None,Met
+DOC-2024-113,2024-11-24,Capital Call Notice,eFront,Analyst E,Completed,15,Passed,None,Met
+DOC-2024-046,2024-11-25,Subscription Agreement,Investran,Analyst E,Completed,54,Passed,None,Met
+DOC-2024-011,2024-11-27,Side Letter,Investran,Analyst B,Completed,29,Passed,None,Met
+DOC-2024-170,2024-11-27,Quarterly Financial Report,eFront,Analyst E,Completed,63,Passed,None,Breached
+DOC-2024-498,2024-12-02,Subscription Agreement,Allvue,Analyst B,Completed,46,Passed,None,Met
+DOC-2024-085,2024-12-04,Capital Call Notice,Investran,Analyst E,Completed,40,Passed,None,Breached
+DOC-2024-251,2024-12-04,Capital Call Notice,Investran,Analyst E,Completed,35,Passed,None,Met
+DOC-2024-292,2024-12-04,Capital Account Statement,eFront,Analyst E,In Progress,54,Failed,Incorrect Amount,Breached
+DOC-2024-056,2024-12-06,Side Letter,Investran,Analyst A,Completed,37,Passed,None,Met
+DOC-2024-168,2024-12-06,K-1 Tax Document,FIS Investier,Analyst C,Rejected,41,Failed,Illegible Scan,Met
+DOC-2024-285,2024-12-06,Capital Call Notice,Allvue,Analyst A,Rejected,41,Failed,Metadata Mismatch,Breached
+DOC-2024-474,2024-12-07,Quarterly Financial Report,eFront,Analyst D,Completed,50,Passed,None,Met
+DOC-2024-363,2024-12-08,Capital Call Notice,eFront,Analyst D,Completed,22,Passed,None,Met
+DOC-2024-393,2024-12-08,Subscription Agreement,FIS Investier,Analyst C,Completed,58,Passed,None,Breached
+DOC-2024-403,2024-12-08,Subscription Agreement,Investran,Analyst E,Completed,50,Passed,None,Met
+DOC-2024-211,2024-12-09,Distribution Notice,Investran,Analyst C,Completed,12,Passed,None,Met
+DOC-2024-020,2024-12-10,Distribution Notice,Investran,Analyst E,In Progress,35,Failed,Illegible Scan,Met
+DOC-2024-099,2024-12-10,Capital Call Notice,eFront,Analyst E,Completed,22,Passed,None,Met
+DOC-2024-029,2024-12-11,Capital Account Statement,Allvue,Analyst A,Rejected,46,Failed,Incorrect Amount,Met
+DOC-2024-096,2024-12-11,Quarterly Financial Report,eFront,Analyst B,Completed,57,Passed,None,Breached
+DOC-2024-054,2024-12-12,Capital Call Notice,Investran,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-136,2024-12-12,Quarterly Financial Report,eFront,Analyst D,Completed,59,Passed,None,Breached
+DOC-2024-243,2024-12-12,Capital Call Notice,Allvue,Analyst D,In Progress,28,Failed,Missing Signature,Met
+DOC-2024-261,2024-12-12,Capital Call Notice,Investran,Analyst A,In Progress,27,Failed,Missing Signature,Met
+DOC-2024-436,2024-12-12,Quarterly Financial Report,Investran,Analyst B,Rejected,46,Failed,Metadata Mismatch,Met
+DOC-2024-172,2024-12-14,Distribution Notice,Allvue,Analyst A,Completed,27,Passed,None,Met
+DOC-2024-002,2024-12-15,Quarterly Financial Report,eFront,Analyst D,Completed,48,Passed,None,Met
+DOC-2024-239,2024-12-15,Subscription Agreement,Investran,Analyst B,Completed,57,Passed,None,Breached
+DOC-2024-291,2024-12-15,Quarterly Financial Report,Allvue,Analyst A,Rejected,54,Failed,Missing Signature,Met
+DOC-2024-339,2024-12-15,Capital Call Notice,Investran,Analyst B,Completed,26,Passed,None,Met
+DOC-2024-459,2024-12-15,K-1 Tax Document,eFront,Analyst A,Completed,50,Passed,None,Breached
+DOC-2024-419,2024-12-16,K-1 Tax Document,eFront,Analyst A,Completed,47,Passed,None,Met
+DOC-2024-075,2024-12-17,Capital Call Notice,Investran,Analyst A,Completed,32,Passed,None,Met
+DOC-2024-140,2024-12-18,Distribution Notice,Investran,Analyst A,Completed,34,Passed,None,Met
+DOC-2024-246,2024-12-18,Distribution Notice,FIS Investier,Analyst D,Completed,29,Passed,None,Met
+DOC-2024-389,2024-12-20,Capital Call Notice,Allvue,Analyst D,Completed,26,Passed,None,Met
+DOC-2024-376,2024-12-21,K-1 Tax Document,Investran,Analyst A,Rejected,68,Failed,Metadata Mismatch,Breached
+DOC-2024-421,2024-12-21,Capital Call Notice,Investran,Analyst A,Completed,33,Passed,None,Met
+DOC-2024-480,2024-12-23,Distribution Notice,eFront,Analyst E,Completed,29,Passed,None,Met
+DOC-2024-132,2024-12-25,Distribution Notice,eFront,Analyst E,Rejected,38,Failed,Incorrect Amount,Met
+DOC-2024-181,2024-12-25,K-1 Tax Document,Investran,Analyst B,Completed,28,Passed,None,Met
+DOC-2024-014,2024-12-26,Capital Call Notice,FIS Investier,Analyst C,Completed,28,Passed,None,Met
+DOC-2024-063,2024-12-26,Capital Account Statement,Allvue,Analyst D,Completed,33,Passed,None,Met
+DOC-2024-122,2024-12-26,Quarterly Financial Report,Investran,Analyst A,Completed,44,Passed,None,Met
+DOC-2024-252,2024-12-26,Distribution Notice,Allvue,Analyst D,Completed,20,Passed,None,Met
+DOC-2024-358,2024-12-26,Distribution Notice,Allvue,Analyst E,Completed,20,Passed,None,Met
+DOC-2024-038,2024-12-30,Capital Account Statement,Investran,Analyst A,Completed,47,Passed,None,Met
